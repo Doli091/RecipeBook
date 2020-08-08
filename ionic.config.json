@@ -1,0 +1,7 @@
+{
+  "name": "RacipeBook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
